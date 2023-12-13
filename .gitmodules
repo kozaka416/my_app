@@ -1,3 +1,6 @@
 [submodule "api"]
 	path = api
 	url = git@github.com:kozaka416/api.git
+[submodule "front"]
+	path = front
+	url = git@github.com:kozaka416/front.git
